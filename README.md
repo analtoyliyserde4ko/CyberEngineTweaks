@@ -34,7 +34,7 @@ Current version works with 1.61 game version.
 | Remove Dead Bindings | Removes bindings for mods that were not loaded |
 | Enable ImGui Assertions | Enables all ImGui assertions (use this option to check mods for errors before shipping!) |
 | Debug Menu | Enables the debug menus in game |
-| Dump Game Options | Dumps all game options into main log file |
+| Dum orop Game Options | Dumps all game options into main log file |
 
 ## Usage and configuration
 
