@@ -29,6 +29,18 @@ Current version works with 1.61 game version.
 | Disable Boundary Teleport | Allows players to access out-of-bounds locations |
 | Disable Windows 7 VSync | Disables VSync on Windows 7 to bypass the 60 FPS limit |
 
+| Patch      | Description     |
+| :------------- | :------------------------------ |
+| AMD SMT | For AMD CPUs that did not get a performance boost after CDPR's patch |
+| Remove pedestrians and traffic | Removes most of the pedestrians and traffic |
+| Disable Async Compute | Disables async compute, this can give a boost on older GPUs (Nvidia 10xx series for example)|
+| Disable Temporal Antialiasing | Disables antialiasing, not recommended but you do what you want! |
+| Skip start menu | Skips the menu asking you to press space bar to continue (Breaching...) |
+| Suppress Intro Movies | Disables logos played at the beginning |
+| Disable Vignette | Disables vignetting along screen borders |
+| Disable Boundary Teleport | Allows players to access out-of-bounds locations |
+| Disable Windows 7 VSync | Disables VSync on Windows 7 to bypass the 60 FPS limit |
+
 ### Current mod development options
 | Development      | Description     |
 | :------------- | :------------------------------ |
