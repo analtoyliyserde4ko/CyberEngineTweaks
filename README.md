@@ -7,7 +7,13 @@
 * Dogecoin: DMoReR33D87D6rYeUkyQb2BsEHJTqfBFva
 * Ethereum: 0x7Cd23BE1C507Da85ABF0B05c7A3C03e6d3d0233B
 
-## What's this???
+## What's this???cord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Epkq79k341d96)
+
+* Bitcoin: bc1q0neujk5e8v8sc3934ajn8z8zav7hl6557fjj54
+* Bitcoin Cash: qps5ze9p8fxmu4rszyxwy3g0ctlmrhvc3uqq0fzsnl
+* Dogecoin: DMoReR33D87D6rYeUkyQb2BsEHJTqfBFva
+* Ethereum: 0x7Cd23BE1C507Da85ABF0B05c7A3C03e6d3d0233B
+
 
 **Cyber Engine Tweaks** is a framework giving modders a way to script mods using [Lua](https://www.lua.org/) with access to all the internal scripting features. It also comes with a [Dear ImGui](https://github.com/ocornut/imgui/tree/v1.82) to provide GUI for different mods you are using, along with console and TweakDB editor for more advanced usage. It also adds some patches for quality of life, all of which can be enabled/disabled through the settings menu or config files (requires game restart to apply).
 **Cyber Engine Tweaks** is a framework giving modders a way to script mods using [Lua](https://www.lua.org/) with access to all the internal scripting features. It also comes with a [Dear ImGui](https://github.com/ocornut/imgui/tree/v1.82) to provide GUI for different mods you are using, along with console and TweakDB editor for more advanced usage. It also adds some patches for 
