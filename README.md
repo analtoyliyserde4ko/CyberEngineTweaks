@@ -5,10 +5,6 @@
 * Bitcoin: bc1q0neujk5e8v8sc3934ajn8z8zav7hl6557fjj54
 * Bitcoin Cash: qps5ze9p8fxmu4rszyxwy3g0ctlmrhvc3uqq0fzsnl
 
-
-**Cyber Engine Tweaks** is a framework giving modders a way to script mods using [Lua](https://www.lua.org/) with access to all the internal scripting features. It also comes with a [Dear ImGui](https://github.com/ocornut/imgui/tree/v1.8e enabled/disabled through the settings menu or config files (requires game restart to apply).
-
-| Patch      | Description     |
 | :------------- | :------------------------------ |
 | AMD SMT | For AMD CPUs that did not get a performance boost after CDPR's patch |
 | Remove pedestrians and traffic | Removes most of the pedestrians and traffic |
