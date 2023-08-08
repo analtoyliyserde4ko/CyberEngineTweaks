@@ -50,3 +50,17 @@
 If you wish to contribute to the main repo, try to follow the coding style in the code, otherwise not much to say, don't use code that is not yours unless the license is compatible with MIT.
 
 As for the wiki, please ask on discord for write permissions.
+
+## Usage and configuration
+
+[Read the wiki](https://wiki.redmodding.org/cyber-engine-tweaks/)
+
+[Official mod examples](https://github.com/WolvenKit/cet-examples)
+
+[Usage with Proton](https://wiki.redmodding.org/cyber-engine-tweaks/getting-started/installing/untitled)
+
+## Contributing
+
+If you wish to contribute to the main repo, try to follow the coding style in the code, otherwise not much to say, don't use code that is not yours unless the license is compatible with MIT.
+
+As for the wiki, please ask on discord for write permissions.
